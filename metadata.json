@@ -1,0 +1,9 @@
+{
+  "name": "RSA Agent - Republica Safety AI Agent",
+  "description": "A high-performance safety platform integrating multimodal AI to process live CCTV, audio distress calls, and civilian SOS alerts for real-time situational awareness and rapid law enforcement response.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
